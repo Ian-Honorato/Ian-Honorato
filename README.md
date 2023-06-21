@@ -9,10 +9,9 @@
 </div>
 
 ##
-<div>
-  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
-  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
-</div>
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,c,figma)](https://skillicons.dev)
 
 
 ##
